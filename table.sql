@@ -6,8 +6,5 @@ create table table_name(
 insert into table_name (id, name)
 values
 (1, 'sky')
-<<<<<<< HEAD
 (2, 'gray');
-=======
 (2, 'max');
->>>>>>> main
